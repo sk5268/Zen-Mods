@@ -1,0 +1,12 @@
+/* 
+ * This rule hides the "zen-current-workspace-indicator" element from the page.
+ * The `#zen-current-workspace-indicator` refers to the Current Workspace Indicator.
+ *
+ * The `display: none !important;` declaration ensures that the element is not visible
+ * and overrides any other `display` rules that may apply to this element, even if they
+ * have higher specificity.
+ */
+
+#zen-current-workspace-indicator {
+    display: none !important;
+}
