@@ -7,4 +7,4 @@ Reference: [Update 1.6b > Breaking Changes](https://zen-browser.app/release-note
 
 # Usage
 1. Install the mod.
-2. Forget About it. No tweaks requried
+2. Forget About it. No tweaks requried.
